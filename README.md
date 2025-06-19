@@ -13,8 +13,7 @@ This project is a Tic Tac Toe game where AI agents learn to play using Q-Learnin
    - Exit the game.
 
 ## Files
-- `main.py`: Starts the game.
-- `ttt.py`: Contains the game logic and AI code.
+- `main.py`: Trains the model and we  can play with model.
 - `agent_X.pkl` and `agent_O.pkl`: Saved AI data.
 
 ## Notes
