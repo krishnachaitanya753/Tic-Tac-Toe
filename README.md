@@ -1,4 +1,4 @@
-# Tic Tac Toe with AI
+# Tic Tac Toe 
 
 ## About
 This project is a Tic Tac Toe game where AI agents learn to play using Q-Learning. You can train the AI, play against it, or watch two AI agents compete.
